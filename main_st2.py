@@ -64,5 +64,5 @@ def check_data(n,data):
         st.write("El DataFrame Está Vacio")
 
 
-
+#modificamos el archivo para hacer un commit
 check_data(columnas_df[1],data)
